@@ -1,0 +1,9 @@
+D:\Desktop\Slugbase tutorial\SlugTemplate\src\bin\Debug\net48\SlugTemplate.dll
+D:\Desktop\Slugbase tutorial\SlugTemplate\src\bin\Debug\net48\SlugTemplate.pdb
+D:\Desktop\Slugbase tutorial\SlugTemplate\src\obj\Debug\net48\SlugTemplate.csproj.AssemblyReference.cache
+D:\Desktop\Slugbase tutorial\SlugTemplate\src\obj\Debug\net48\SlugTemplate.GeneratedMSBuildEditorConfig.editorconfig
+D:\Desktop\Slugbase tutorial\SlugTemplate\src\obj\Debug\net48\SlugTemplate.AssemblyInfoInputs.cache
+D:\Desktop\Slugbase tutorial\SlugTemplate\src\obj\Debug\net48\SlugTemplate.AssemblyInfo.cs
+D:\Desktop\Slugbase tutorial\SlugTemplate\src\obj\Debug\net48\SlugTemplate.csproj.CoreCompileInputs.cache
+D:\Desktop\Slugbase tutorial\SlugTemplate\src\obj\Debug\net48\SlugTemplate.dll
+D:\Desktop\Slugbase tutorial\SlugTemplate\src\obj\Debug\net48\SlugTemplate.pdb
